@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/API-Result-Mark-Sheet/static/css/main.43295e70.css",
+    "main.js": "/API-Result-Mark-Sheet/static/js/main.2b83ceb4.js",
+    "static/media/frame-54@3x.png": "/API-Result-Mark-Sheet/static/media/frame-54@3x.a275482260f1719c87ee.png",
+    "index.html": "/API-Result-Mark-Sheet/index.html",
+    "main.43295e70.css.map": "/API-Result-Mark-Sheet/static/css/main.43295e70.css.map",
+    "main.2b83ceb4.js.map": "/API-Result-Mark-Sheet/static/js/main.2b83ceb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43295e70.css",
+    "static/js/main.2b83ceb4.js"
+  ]
+}
